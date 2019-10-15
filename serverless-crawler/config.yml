@@ -1,0 +1,3 @@
+AWS_REGION: us-east-1
+STAGE: dev
+DEPLOYMENT_BUCKET: jaeyp-serverless-crawler-demo

@@ -97,5 +97,8 @@ public
 # DynamoDB Local files
 .dynamodb/
 
+# Cloud9 outputs
+.c9/
+
 # TernJS port file
 .tern-port

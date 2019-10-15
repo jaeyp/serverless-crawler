@@ -1,4 +1,7 @@
 {
+    "aws": {
+        "@awsRegion": "us-east-1"
+    },
     "instance": {
         "@automaticShutdown": "30"
     },

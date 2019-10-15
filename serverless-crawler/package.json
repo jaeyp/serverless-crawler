@@ -1,0 +1,22 @@
+{
+  "name": "serverless-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node handler.test.js", 
+    "deploy": "serverless deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dynamoose": "^1.11.1",
+    "got": "^9.6.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.549.0",
+    "serverless": "^1.54.0"
+  }
+}
