@@ -13,7 +13,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "dynamoose": "^1.11.1",
-    "got": "^9.6.0"
+    "got": "^11.8.5"
   },
   "devDependencies": {
     "aws-sdk": "^2.549.0",
